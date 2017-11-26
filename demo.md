@@ -88,9 +88,9 @@ POST http://iwork.pku.edu.cn/workspace	   —— RESTful
 
 SOAP是Simple Object Access Protocol的简称，即简单对象访问协议，是交换数据的一种协议规范。
 
-<img src="soaprequest.png" style="margin: 0px 80px">
+<img src="soaprequest.png" style="float:left">
 
-<img src="soapresponse.png" style="margin: 80px 80px">
+<img src="soapresponse.png" style="float:right">
 
 ---
 ## SOAP
@@ -129,9 +129,9 @@ SOAP是Simple Object Access Protocol的简称，即简单对象访问协议，�
 
 ### 实际场景
 
-<img src="rest.png" style="margin: 0px 80px">
+<img src="rest.png" style="float:left">
 
-<img src="soap.png" style="margin: 80px 80px">
+<img src="soap.png" style="float:right">
 
 ---
 
@@ -140,9 +140,9 @@ SOAP是Simple Object Access Protocol的简称，即简单对象访问协议，�
 ### 代理
 
 
-<img src="restproxy.png" style="margin: 0px 80px">
+<img src="restproxy.png" style="float:left">
 
-<img src="proxy.png" style="margin: 80px 80px">
+<img src="proxy.png" style="float:right">
 
 ---
 ## REST vs SOAP
