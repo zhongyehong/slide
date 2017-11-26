@@ -142,8 +142,8 @@ SOAP是Simple Object Access Protocol的简称，即简单对象访问协议，�
 ### 代理
 
 <figure class="half">
-<img src="restproxy.png" height=300> 
-<img src="soapproxy.png" height=300> 
+<img src="restproxy.png" height=150> 
+<img src="soapproxy.png" height=150> 
 </figure>
 
 ---
