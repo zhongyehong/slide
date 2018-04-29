@@ -73,9 +73,16 @@ Cloudorado（https://www.cloudorado.com/）:用户可以选择需求的具体的
 
 <img src="intelfinder.png" style="margin: 0px 80px">
 
+<<<<<<< HEAD
 <img src="rankz.png" style="margin: 80px 80px">
 
 <img src="cloudorado.png" style="margin: 80px 80px">
+=======
+<figure class="half" style="margin:0px 80px">
+<img src="soaprequest.PNG" height=200> 
+<img src="soapresponse.PNG" height=200> 
+</figure>
+>>>>>>> origin/master
 
 ---
 ## 现有云服务选择工具的比较
@@ -91,17 +98,35 @@ Cloudorado（https://www.cloudorado.com/）:用户可以选择需求的具体的
 <img src="arch.png" style="margin: 0px 80px">
 
 ---
+<<<<<<< HEAD
 
 ## 论文提出的一种新架构
+=======
+## REST vs SOAP
+
+### 实际场景
+
+<figure class="half">
+<img src="rest.png" height=300> 
+<img src="soap.png" height=300> 
+</figure>
+>>>>>>> origin/master
 
 ### Cloud Providers Knowledge Repository: 该架构基于一个云商的知识库
 
 Provider Scrapper: 根据每个云商的API，定期地从不同的云商上抓取信息，如实时价格，新的服务等等，然后会根据这些信息更新知识库
 
+<<<<<<< HEAD
 User Reviews: 一个评价系统，用户可以参与云商的评价，其他用户也可以看到这些评价，从而进行参考
 
 Service Monitors: 定期检查各个云商的服务可靠性，利用现有工具（CloudHarmony），但并非所有云商都提供接口
 
+=======
+<figure class="half">
+<img src="restproxy.png" height=150> 
+<img src="soapproxy.png" height=150> 
+</figure>
+>>>>>>> origin/master
 
 ---
 ## 论文提出的一种新架构
@@ -112,4 +137,8 @@ SLA Generator: 该模块会基于用户选择的QoS参数生成SLA，为了让�
 
 Cloud Service Selection: 该模块根据云商知识库及用户输入的QoS参数，根据某种算法为用户选择最匹配的云商和云服务
 
+<<<<<<< HEAD
+=======
+两者本质上是两种web service的设计理念，各有利弊，需要针对具体问题具体分析。
+>>>>>>> origin/master
 ---
