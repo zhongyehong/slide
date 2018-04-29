@@ -70,11 +70,11 @@ Cloudorado（https://www.cloudorado.com/）: 用户可以选择需求的具体�
 ---
 ## 现有云服务选择工具的比较
 
-<img src="intelfinder.PNG" height="120" width="400">
+<img src="intelfinder.PNG" height="200" width="400">
 
-<img src="rankz.PNG" height="120" width="400">
+<img src="rankz.PNG" height="200" width="400">
 
-<img src="cloudorado.PNG"  height="120" width="400">
+<img src="cloudorado.PNG" style="margin-left:450px; margin-top:200px;" height="200" width="400">
 
  
 ---
