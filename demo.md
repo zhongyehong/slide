@@ -69,14 +69,14 @@ Cloudorado（https://www.cloudorado.com/）: 用户可以选择需求的具体�
 
 ---
 ## 现有云服务选择工具的比较
+<div align="center">
 
+<img src="intelfinder.PNG" height="110" width="330">
 
-<img src="intelfinder.PNG" style="margin: 0px 30px" height="40%" width="40%">
+<img src="rankz.PNG" height="110" width="330">
 
-<img src="rankz.PNG" style="margin: 30px 30px" height="40%" width="40%">
-
-<img src="cloudorado.PNG" style="margin: 30px 0px" height="40%" width="40%">
-
+<img src="cloudorado.PNG" height="110" width="330">
+ </div>
 ---
 ## 现有云服务选择工具的比较
 
