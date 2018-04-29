@@ -74,7 +74,7 @@ Cloudorado（https://www.cloudorado.com/）: 用户可以选择需求的具体�
 
 <img src="rankz.PNG" height="200" width="400">
 
-<img src="cloudorado.PNG" style="margin:100px 0px"  height="200" width="400">
+<img src="cloudorado.PNG" style="margin: 100px 0px"  height="200" width="400">
 
  
 ---
