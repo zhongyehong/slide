@@ -71,16 +71,16 @@ Cloudorado（https://www.cloudorado.com/）: 用户可以选择需求的具体�
 ## 现有云服务选择工具的比较
 
 
-<img src="intelfinder.PNG" style="margin: 0px 50px" height="40%" width="40%">
+<img src="intelfinder.PNG" style="margin: 0px 30px" height="40%" width="40%">
 
-<img src="rankz.PNG" style="margin: 50px 50px" height="40%" width="40%">
+<img src="rankz.PNG" style="margin: 30px 30px" height="40%" width="40%">
 
-<img src="cloudorado.PNG" style="margin: 100px 50px" height="40%" width="40%">
+<img src="cloudorado.PNG" style="margin: 60px 50px" height="40%" width="40%">
 
 ---
 ## 现有云服务选择工具的比较
 
-<img src="comp.PNG" style="margin: 0px 80px" height="50%" width="50%">
+<img src="comp.PNG" height="50%" width="50%">
 
 需要注意的是，这三个工具的数据都是静态的，即不会每次用户查询的时候都向所有云商查询信息，而是预先将这些信息保存起来。
 
