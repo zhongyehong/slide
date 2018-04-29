@@ -59,12 +59,12 @@ Service deployment models: 公有云，私有云，社区云，混合云
 
 目前有三个有名的云服务选择平台， Intel Cloud Finder, CLOUDORADO和RankCloudz
 
-Intel Cloud Finder(https://www.intelcloudfinder.com):这个平台会罗列云商，然后有许多配置项给你选择（如地域，按量付费，自定义镜像），根据你的选择刷新满足条件的云商。
+Intel Cloud Finder(https://www.intelcloudfinder.com): 这个平台会罗列云商，然后有许多配置项给你选择（如地域，按量付费，自定义镜像），根据你的选择刷新满足条件的云商。
 该平台还有具体的搜索，用户可以选择自己注重的配置，给其重要程度设置优先级，然后平台会筛选云商并为其打分。
 
-RankCloudz（http://rightcloudz.com）:该平台将云服务分成5大类型，每个类型有许多参数，用户可以给这些参数设定优先级，然后平台会给云商打分
+RankCloudz（http://rightcloudz.com）: 该平台将云服务分成5大类型，每个类型有许多参数，用户可以给这些参数设定优先级，然后平台会给云商打分
 
-Cloudorado（https://www.cloudorado.com/）:用户可以选择需求的具体的配置，如CPU，内存以及磁盘，还有一些特性，如是否支持API，是否支持下载镜像等等，然后平台会罗列满足条件的云商及对应的配置及价格，用户可以点击按钮进入该云商的页面。
+Cloudorado（https://www.cloudorado.com/）: 用户可以选择需求的具体的配置，如CPU，内存以及磁盘，还有一些特性，如是否支持API，是否支持下载镜像等等，然后平台会罗列满足条件的云商及对应的配置及价格，用户可以点击按钮进入该云商的页面。
 
 
 ---
@@ -73,16 +73,9 @@ Cloudorado（https://www.cloudorado.com/）:用户可以选择需求的具体的
 
 <img src="intelfinder.png" style="margin: 0px 80px">
 
-<<<<<<< HEAD
 <img src="rankz.png" style="margin: 80px 80px">
 
-<img src="cloudorado.png" style="margin: 80px 80px">
-=======
-<figure class="half" style="margin:0px 80px">
-<img src="soaprequest.PNG" height=200> 
-<img src="soapresponse.PNG" height=200> 
-</figure>
->>>>>>> origin/master
+<img src="cloudorado.png" style="margin: 160px 80px">
 
 ---
 ## 现有云服务选择工具的比较
@@ -98,35 +91,15 @@ Cloudorado（https://www.cloudorado.com/）:用户可以选择需求的具体的
 <img src="arch.png" style="margin: 0px 80px">
 
 ---
-<<<<<<< HEAD
-
 ## 论文提出的一种新架构
-=======
-## REST vs SOAP
-
-### 实际场景
-
-<figure class="half">
-<img src="rest.png" height=300> 
-<img src="soap.png" height=300> 
-</figure>
->>>>>>> origin/master
 
 ### Cloud Providers Knowledge Repository: 该架构基于一个云商的知识库
 
 Provider Scrapper: 根据每个云商的API，定期地从不同的云商上抓取信息，如实时价格，新的服务等等，然后会根据这些信息更新知识库
 
-<<<<<<< HEAD
 User Reviews: 一个评价系统，用户可以参与云商的评价，其他用户也可以看到这些评价，从而进行参考
 
 Service Monitors: 定期检查各个云商的服务可靠性，利用现有工具（CloudHarmony），但并非所有云商都提供接口
-
-=======
-<figure class="half">
-<img src="restproxy.png" height=150> 
-<img src="soapproxy.png" height=150> 
-</figure>
->>>>>>> origin/master
 
 ---
 ## 论文提出的一种新架构
@@ -137,8 +110,4 @@ SLA Generator: 该模块会基于用户选择的QoS参数生成SLA，为了让�
 
 Cloud Service Selection: 该模块根据云商知识库及用户输入的QoS参数，根据某种算法为用户选择最匹配的云商和云服务
 
-<<<<<<< HEAD
-=======
-两者本质上是两种web service的设计理念，各有利弊，需要针对具体问题具体分析。
->>>>>>> origin/master
 ---
