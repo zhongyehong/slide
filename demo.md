@@ -76,7 +76,8 @@ Cloudorado（https://www.cloudorado.com/）: 用户可以选择需求的具体�
 <img src="rankz.PNG" height="110" width="330">
 
 <img src="cloudorado.PNG" height="110" width="330">
- </div>
+</div>
+ 
 ---
 ## 现有云服务选择工具的比较
 
